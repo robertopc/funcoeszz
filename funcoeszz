@@ -41,8 +41,8 @@ ZZUTF=1
 # puder fazer alterações nele.
 #
 ZZCOR_DFT=1                       # colorir mensagens? 1 liga, 0 desliga
-ZZPATH_DFT="/usr/bin/funcoeszz"   # rota absoluta deste arquivo
-ZZDIR_DFT="$HOME/zz"              # rota absoluta do diretório com as funções
+ZZPATH_DFT="$ZZPATH"   # rota absoluta deste arquivo
+ZZDIR_DFT="$ZZDIR"              # rota absoluta do diretório com as funções
 ZZTMPDIR_DFT="${TMPDIR:-/tmp}"    # diretório temporário
 #
 #
